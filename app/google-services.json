@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "168465912983",
+    "project_id": "flybye-65721",
+    "storage_bucket": "flybye-65721.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168465912983:android:f4a74415edb64be90f45d2",
+        "android_client_info": {
+          "package_name": "com.example.flybyelens"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8IlSbsasU72bIaR1CIy97ipxzcfAOS20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

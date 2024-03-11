@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FlyBye Lens</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoibGVvbGVuIiwiYSI6ImNsb3Z1amFkczBlamcyaXBiNW16amY5aGQifQ.MRKenm7lUltraKF_SvnN7w</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
